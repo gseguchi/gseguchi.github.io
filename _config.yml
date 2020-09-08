@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : Gustavo Seguchi
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/eu.jpg"
   bio    : "Granduando em ciências biológicas na UNICAMP."
   links:
     - label: "GitHub"
