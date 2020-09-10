@@ -16,6 +16,7 @@ cadernos:
       - title: "Início"
         url: /cadernos/inicio/
   - title: Genética I (clássica)
+  - title: Genética II (molecular)
     children:
-      - title: "Primeira Lei de Mendel"
-        url: /cadernos/primeira-lei/
+      - title: "PCR"
+        url: /cadernos/pcr
